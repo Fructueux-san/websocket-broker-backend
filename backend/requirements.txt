@@ -1,0 +1,5 @@
+flask
+requests 
+celery
+flask_socketio
+flask_cors
